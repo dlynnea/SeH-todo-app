@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/cljs/logo/master/cljs.svg" height="120">
-
 ![ScreenShot](https://github.com/dlynnea/SeH-todo-app/blob/main/public/preview.png)
 
 # Create Reagent App
