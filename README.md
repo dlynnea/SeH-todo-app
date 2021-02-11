@@ -34,6 +34,12 @@ git clone https://github.com/dlynnea/SeH-todo-app.git
 
 Note: This step creates a `node_modules` folder with all the dependencies in your project folder. You can use either `yarn` or `npm` as your package manager.
 
+First cd into the project folder Seh-todo-app, then install
+
+```
+cd SeH-todo-app
+```
+
 ```
 npm install
 ```
