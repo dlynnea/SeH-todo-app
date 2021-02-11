@@ -60,19 +60,3 @@ Then open http://localhost:3000/ in your browser to see the app.
 > Note also: Unlike the setup created by _create-react-app_, your project is not automatically initialized as a Git repo. However, a `.gitignore` file is included. Please run `git init` to create a Git repo in your project folder.
 
 ---
-
-## Options
-
-Running the following command (without options) creates a project using a **basic template**, without example usage or comments, which is most useful when you need a blank project scaffold:
-
-```
-npx create-reagent-app my-project
-```
-
-You can add the `--example` option to the command to get a **basic template with examples**, which should be useful for developers who are not very familiar with setting up ClojureScript/Reagent projects with Shadow-CLJS. It has example components and plenty of comments:
-
-```
-npx create-reagent-app my-project --example
-```
-
----
